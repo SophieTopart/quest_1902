@@ -26,4 +26,4 @@ jobs:
         with:
           context: ./server
           push: true
-          tags: SophieTopart/quete1902:latest
+          tags: sophietopart/quete1902:latest
